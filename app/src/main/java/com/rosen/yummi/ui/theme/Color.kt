@@ -16,3 +16,4 @@ val Green = Color(0xFF05B874)
 val TextBlack = Color(0xFF46494B)
 val LighterGray = Color(0xFFF9FAFA) // White text
 val MediumGray = Color(0xFF6F6F6F) // Chips
+val TransparentWhite = Color(0xFFE7FFF6) // Search Background
